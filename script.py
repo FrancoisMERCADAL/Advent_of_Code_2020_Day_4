@@ -168,9 +168,9 @@ def passport_part2():
 
 # TESTS
 ## PART 1
-# print(passport_part1())
+print(passport_part1())
 # OUTPUT: 254
 
 ## PART 2
-# print(passport_part2())
+print(passport_part2())
 # OUTPUT: 184
